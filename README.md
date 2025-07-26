@@ -1,6 +1,6 @@
 # PROJETO DE SISTEMAS COMPUTACIONAIS EMBARCADOS
 
-## Prof. Emerson Carlos Pedrino  
+## Prof. Dr. Emerson Carlos Pedrino  
 ## Aluno: Lucas Nunes Garcia - Engenharia de Computação  
 ## Departamento de Computação (DC) - UFSCar
 
