@@ -1,6 +1,9 @@
 ###PROJETO DE SISTEMAS COMPUTACIONAIS EMBARCADOS
+
 ###Prof. Emerson Carlos Pedrino
+
 ###Aluno: Lucas Nunes Garcia - Engenharia de Computação
+
 ###Departamento de Computação (DC) - UFSCar
 
 ##Projetos de Jogos em Sistemas Embarcados
